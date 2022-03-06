@@ -1,6 +1,6 @@
 ---
 name: ㅈㄱㅇ
-avatar: /static/images/members/slave1.jpg
+avatar: /static/images/members/slave.jpeg
 occupation: 'Designer'
 number: 1
 ---

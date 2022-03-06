@@ -7,7 +7,7 @@ const membersData = [
   {
     title: 'ㅈㄱㅇ',
     description: `1호`,
-    imgSrc: '/static/images/members/slave1.jpg',
+    imgSrc: '/static/images/members/slave.jpeg',
   },
 ]
 
