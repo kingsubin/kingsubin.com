@@ -9,12 +9,9 @@ export default function TODO() {
         </h1>
       </div>
       <div className="max-w-md">
-        <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">
-          채팅
-        </p>
+        <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">채팅</p>
         <p className="mb-8">
-          얼추 만들었는데 인스턴스 사양도 부족하고 하자가 많네요.
-          다음 기회에 계속..
+          얼추 만들었는데 인스턴스 사양도 부족하고 하자가 많네요. 다음 기회에 계속..
         </p>
         <Link href="/">
           <button className="inline px-4 py-2 text-sm font-medium leading-5 text-white transition-colors duration-150 bg-blue-600 border border-transparent rounded-lg shadow focus:outline-none focus:shadow-outline-blue hover:bg-blue-700 dark:hover:bg-blue-500">
