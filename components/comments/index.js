@@ -27,14 +27,14 @@ const Comments = ({ frontMatter }) => {
     siteMetadata.comment.utterancesConfig.issueTerm
   ) {
     case 'pathname':
-      term = frontMatter.slug
+      term = frontMatter?.slug ?? 'guest-book'
       break
-    case 'url':
-      term = window.location.href
-      break
-    case 'title':
-      term = frontMatter.title
-      break
+    // case 'url':
+    //   term = window.location.href
+    //   break
+    // case 'title':
+    //   term = frontMatter.title
+    //   break
   }
   return (
     <div id="comment">
