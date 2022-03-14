@@ -1,5 +1,5 @@
-import Comments from '@/components/comments'
+import Giscus from '@/components/comments/Giscus'
 
 export default function GuestBook() {
-  return <Comments />
+  return <Giscus mapping={'guest-book'} />
 }
